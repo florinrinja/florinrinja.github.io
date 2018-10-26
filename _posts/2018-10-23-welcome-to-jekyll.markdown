@@ -8,6 +8,7 @@ categories: jekyll update
 Asta e prima mea pagina uplodata de net. 
 Ce e mai jos, e standard, evident. Dar sunt foarte mandru de mine. Mai ales ca pagina afisata arata asa:
 
+<!---
 ---
 layout: default
 ---
@@ -22,7 +23,7 @@ layout: default
   </div>
 
 </article>
-
+-->
 
 So... trebuie sa stii ce si unde sa modifici ca sa iti apara textul asta. 
 So, i AM very proud, indeed.
