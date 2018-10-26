@@ -1,9 +1,36 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Holly schnitzel!"
 date:   2018-10-23 15:01:37 +0000
 categories: jekyll update
 ---
+
+Asta e prima mea pagina uplodata de net. 
+Ce e mai jos, e standard, evident. Dar sunt foarte mandru de mine. Mai ales ca pagina afisata arata asa:
+
+---
+layout: default
+---
+<article class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <div class="post-content">
+    {{ content }}
+  </div>
+
+</article>
+
+
+So... trebuie sa stii ce si unde sa modifici ca sa iti apara textul asta. 
+So, i AM very proud, indeed.
+
+
+
+
+
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
